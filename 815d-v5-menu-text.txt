@@ -1,28 +1,28 @@
-²Ëµ¥²Ù×÷ËµÃ÷£º
+ï»¿èœå•æ“ä½œè¯´æ˜Žï¼š
 Menu operation instructions
 
-ÔÚWY-815 ½çÃæ³¤°´½øÈë£¬
+åœ¨WY-815 ç•Œé¢é•¿æŒ‰è¿›å…¥ï¼Œ
 Long press the rotary encoder to enter the settings menu
 
-ÓïÑÔ/Language
+è¯­è¨€/Language
 
-1£¬ÖÐÎÄ²Ëµ¥
-2£¬English
+1ï¼Œä¸­æ–‡èœå•
+2ï¼ŒEnglish
 
 
-ÔÚÀÓÌú»ò·çÇ¹½çÃæ ³¤°´£¬ ½øÈëÉè¶¨²Ëµ¥¡£
+åœ¨çƒ™é“æˆ–é£Žæžªç•Œé¢ é•¿æŒ‰ï¼Œ è¿›å…¥è®¾å®šèœå•ã€‚
 Long press the rotary encoder for more than 2 seconds on either soldering or hot air gun screen to enter the settings menu
 
-1£¬ÀÓÌúÉè¶¨ Soldering iron settings
-    1£¬ÐÝÃßÊ±¼ä Standby time
-               2£¬ÐÝÏ¢ÎÂ¶È Standby temperature 
-               3£¬Í£»úÊ±¼ä Sleep time 
-               4£¬·µ»ØÉÏÒ»¼¶ Back
+1ï¼Œçƒ™é“è®¾å®š Soldering iron settings
+    1ï¼Œä¼‘çœ æ—¶é—´ Standby time
+               2ï¼Œä¼‘æ¯æ¸©åº¦ Standby temperature 
+               3ï¼Œåœæœºæ—¶é—´ Sleep time 
+               4ï¼Œè¿”å›žä¸Šä¸€çº§ Back
 
-2£¬¼¤»î·½Ê½ ²ÎÕÕ712
+2ï¼Œæ¿€æ´»æ–¹å¼ å‚ç…§712
 Soldering iron activation mode 
 
-'Keep heating ' Îª¿ª»ú¼´¼ÓÈÈ  'Sen 1-7'  ÎªÕð¶¯ÁéÃô¶Èµ÷½Ú ¡®High Level start¡¯8Îª¸ßµçÆ½¼¤»î £¬ ¡®Low Level start¡¯9ÎªµÍµçÆ½¼¤»î
+'Keep heating ' ä¸ºå¼€æœºå³åŠ çƒ­  'Sen 1-7'  ä¸ºéœ‡åŠ¨çµæ•åº¦è°ƒèŠ‚ â€˜High Level startâ€™8ä¸ºé«˜ç”µå¹³æ¿€æ´» ï¼Œ â€˜Low Level startâ€™9ä¸ºä½Žç”µå¹³æ¿€æ´»
 Working mode
 0 , means keep heating, no standby, the soldering iron will keep heating.
 Sen 1 to 7:  vibration switch sensor sensitivity setting. The bigger the number, the less sensitivity. When the vibration exceed the chosen sensitivity level, the 
@@ -30,71 +30,71 @@ soldering iron will start heating.
 8 is High Level Activate, suitable for normally closed switch
 9 is Low Level Activate, suitable for normally open switch 
 
-3£¬ÒôÁ¿µ÷½Ú     0-9
+3ï¼ŒéŸ³é‡è°ƒèŠ‚     0-9
 Buzzer volume
 
-4£¬×´Ì¬µÆ                  £¨Ñ¡Ôñ¿ª»ò¹Ø£©
+4ï¼ŒçŠ¶æ€ç¯                  ï¼ˆé€‰æ‹©å¼€æˆ–å…³ï¼‰
 
 Status LED indicator, enable or disable
 
-5£¬ÆÁÏÔÉè¶¨               £¨ÀÓÌú·çÇ¹Í¬ÆÁÑ¡Ôñ´ò¿ª»ò¹Ø±Õ£© 
+5ï¼Œå±æ˜¾è®¾å®š               ï¼ˆçƒ™é“é£ŽæžªåŒå±é€‰æ‹©æ‰“å¼€æˆ–å…³é—­ï¼‰ 
 Split screen setting, display soldering iron and hot air gun in one screen, enable or disable 
 
-6£¬ÐòÁÐºÅ      Serial number
-           £¨ÒÑ¾­¼¤»îÏÔÊ¾ÐòÁÐºÅ,¸ÐÐ»Ê¹ÓÃ£¡£»Î´¼¤»îÏÔÊ¾£¬ÊäÈë¼¤»îÂë£¬µã½ø½øÈëºó£¬ÉÏÅÅÏÔÊ¾ÐòÁÐºÅ£¬ÏÂÅÅÏÔÊ¾ÊäÈë¿ò£© 
+6ï¼Œåºåˆ—å·      Serial number
+           ï¼ˆå·²ç»æ¿€æ´»æ˜¾ç¤ºåºåˆ—å·,æ„Ÿè°¢ä½¿ç”¨ï¼ï¼›æœªæ¿€æ´»æ˜¾ç¤ºï¼Œè¾“å…¥æ¿€æ´»ç ï¼Œç‚¹è¿›è¿›å…¥åŽï¼Œä¸ŠæŽ’æ˜¾ç¤ºåºåˆ—å·ï¼Œä¸‹æŽ’æ˜¾ç¤ºè¾“å…¥æ¡†ï¼‰ 
 		   If already activated, this will display the serial number, and thanks for using. 
 		   
 		   If not activated yet, press enter activation number, press to enter, The up row is serial number. 
 The second row is for inputting the registration key.
 		   
 		   
-7£¬»Ö¸´³ö³§               ³¤°´²ÅÄÜ½øÈë£¬Ñ¡Ôñ Y/N£¬ µ¥»÷È·¶¨ºóBBË«ÏìÍË³ö¡£
+7ï¼Œæ¢å¤å‡ºåŽ‚               é•¿æŒ‰æ‰èƒ½è¿›å…¥ï¼Œé€‰æ‹© Y/Nï¼Œ å•å‡»ç¡®å®šåŽBBåŒå“é€€å‡ºã€‚
 Reset factory default.
 Long press the rotary encoder to enter. Select Y/N then single press to proceed. 
 When the settings been reset back to factory default, the buzzer will beep twice. 
 
-8£¬ÍË³ö
+8ï¼Œé€€å‡º
 Exit
 
  
-¿ª»úBBË«Ïì½øÈëÉÏ´Î×îºóÊ¹ÓÃÊ±µÄ½çÃæ
+å¼€æœºBBåŒå“è¿›å…¥ä¸Šæ¬¡æœ€åŽä½¿ç”¨æ—¶çš„ç•Œé¢
 
 The soldering station will start with the last used function screen, and beep twice.
 
-Ðý×ª±àÂëÆ÷×óÓÒÐý×ªÇÐ»» ¹ØÓÚ/Ë«ÆÁ/ÀÓÌú/·çÇ¹½çÃæ
+æ—‹è½¬ç¼–ç å™¨å·¦å³æ—‹è½¬åˆ‡æ¢ å…³äºŽ/åŒå±/çƒ™é“/é£Žæžªç•Œé¢
 Turn the rotary encoder to cycle through soldering iron screen, hot air gun screen, dual function screen and about screen.
 
 
-//=================ÀÓÌú²¿·Ö========================
+//=================çƒ™é“éƒ¨åˆ†========================
 
 
-ÔÚWY-815 ½çÃæ³¤°´½øÈë£¬
+åœ¨WY-815 ç•Œé¢é•¿æŒ‰è¿›å…¥ï¼Œ
 
-ÓïÑÔ/Language
+è¯­è¨€/Language
 
-1£¬ÖÐÎÄ²Ëµ¥
-2£¬English
+1ï¼Œä¸­æ–‡èœå•
+2ï¼ŒEnglish
 
 
-ÔÚÀÓÌú»ò·çÇ¹½çÃæ ³¤°´£¨Ê±¼ä´óÓÚ2Ãë£©£¬ ½øÈëÉè¶¨²Ëµ¥¡£
+åœ¨çƒ™é“æˆ–é£Žæžªç•Œé¢ é•¿æŒ‰ï¼ˆæ—¶é—´å¤§äºŽ2ç§’ï¼‰ï¼Œ è¿›å…¥è®¾å®šèœå•ã€‚
 Long press the rotary encoder for more than 2 seconds on either soldering or hot air gun screen to enter the settings menu
 
 
-1£¬ÀÓÌúÉè¶¨    1£¬  ÐÝÃßÎÂ¶È     µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö 
+1ï¼Œçƒ™é“è®¾å®š    1ï¼Œ  ä¼‘çœ æ¸©åº¦     å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º 
 			   1, Standby temperature  single press to modify, turn the rotary encoder to adjust, press again to exit.
 			   
-               2£¬ÐÝÃßÊ±¼ä      µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö
+               2ï¼Œä¼‘çœ æ—¶é—´      å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º
 			   2, Standby time  single press to modify, turn the rotary encoder to adjust, press again to exit.
 
-               3£¬Í£»úÊ±¼ä     µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö 
+               3ï¼Œåœæœºæ—¶é—´     å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º 
 			   3, Sleep time  single press to modify, turn the rotary encoder to adjust, press again to exit.
 
-			   4£¬PIDÎ¢µ÷     ³¤°´²ÅÄÜ½øÈë£¬ P £¬I £¬D £¬»Ö¸´Ä¬ÈÏ£¬Y/N     5¸ö²Ù×÷Ïî,µ¥»÷Ñ¡Ôñ£¬Ðý×ªÉè¶¨£¬ÔÙ´Îµ¥»÷ÍË³öÑ¡ÔñÏî¡£
+			   4ï¼ŒPIDå¾®è°ƒ     é•¿æŒ‰æ‰èƒ½è¿›å…¥ï¼Œ P ï¼ŒI ï¼ŒD ï¼Œæ¢å¤é»˜è®¤ï¼ŒY/N     5ä¸ªæ“ä½œé¡¹,å•å‡»é€‰æ‹©ï¼Œæ—‹è½¬è®¾å®šï¼Œå†æ¬¡å•å‡»é€€å‡ºé€‰æ‹©é¡¹ã€‚
 			   
 			   4, PID adjustment  long press to enter the PID setting menu, there are five menu items here, which are P,I,D, reset to default, Y/N.
 Single press on a menu item to enter adjust mode, turn the rotary encoder to adjust, press again to exit adjust mode.
 
-               5£¬ÎÂ¶ÈÐ£×¼     µ¥»÷½øÈë£¬Ðý×ª±àÂëÆ÷Ñ¡Ôñ¶ÔÓ¦µÄ²Ù×÷Ïî£¬µ¥»÷Ñ¡È¡²Ù×÷Ïî£¬µÚÒ»ÅÅÉè¶¨Ð£×¼µãÎÂ¶È¡£³¤°´¿ªÆôÀÓÌúÉýÎÂ£¨·äÃùÆ÷BBÁ½Éù£©£¬ÎÂ¶È´ïµ½Éè¶¨Öµºó£¬                                 ³¤¼ä¸ôBÏì£¬ÌáÊ¾ÓÃ»§£¬¿ÉÒÔ²âÎÂ£»ÔÚµÚ¶þÅÅÊäÈë²âµ½µÄÊµ¼ÊÎÂ¶È£¨Ä¬ÈÏ³õÊ¼Ê¼¸úËæÉè¶¨Öµ £©¡£ÆÁµÚÈýÅÅ ÏÔÊ¾SAVE£º Y/N£¬Ñ¡ÔñÊÇ·ñ±£´æÍË³öµ¥»÷Ñ¡Ôñ ·äÃùÆ÷Á½Á¬ÏìÌáÊ¾ ¡£
+               5ï¼Œæ¸©åº¦æ ¡å‡†     å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ç¼–ç å™¨é€‰æ‹©å¯¹åº”çš„æ“ä½œé¡¹ï¼Œå•å‡»é€‰å–æ“ä½œé¡¹ï¼Œç¬¬ä¸€æŽ’è®¾å®šæ ¡å‡†ç‚¹æ¸©åº¦ã€‚é•¿æŒ‰å¼€å¯çƒ™é“å‡æ¸©ï¼ˆèœ‚é¸£å™¨BBä¸¤å£°ï¼‰ï¼Œæ¸©åº¦è¾¾åˆ°è®¾å®šå€¼åŽï¼Œ                                 é•¿é—´éš”Bå“ï¼Œæç¤ºç”¨æˆ·ï¼Œå¯ä»¥æµ‹æ¸©ï¼›åœ¨ç¬¬äºŒæŽ’è¾“å…¥æµ‹åˆ°çš„å®žé™…æ¸©åº¦ï¼ˆé»˜è®¤åˆå§‹å§‹è·Ÿéšè®¾å®šå€¼ ï¼‰ã€‚å±ç¬¬ä¸‰æŽ’ æ˜¾ç¤ºSAVEï¼š Y/Nï¼Œé€‰æ‹©æ˜¯å¦ä¿å­˜é€€å‡ºå•å‡»é€‰æ‹© èœ‚é¸£å™¨ä¸¤è¿žå“æç¤º ã€‚
 			   
 			   5, Soldering Iron Temperature calibration  
 			   
@@ -111,14 +111,14 @@ Single press on a menu item to enter adjust mode, turn the rotary encoder to adj
 			   the buzzer will beep twice to indicate the change has been saved.
 			    
 			   
-			   6,¹¦ÂÊÉè¶¨     90-100 110 120 130 140 150 W ¡£Ê¹ÓÃµ¥ÏîÇÐ»»À´ÏÔÊ¾
+			   6,åŠŸçŽ‡è®¾å®š     90-100 110 120 130 140 150 W ã€‚ä½¿ç”¨å•é¡¹åˆ‡æ¢æ¥æ˜¾ç¤º
 			   Max output power selection: Press to modify, options avaialble are 90 100 110 120 140 150W. Press again to save and exit.    
 			   
 			  
 			   
-               7£¬¼¤»î·½Ê½     '¿ª»ú¼´¼ÓÈÈ' Îª¿ª»ú¼´¼ÓÈÈ  'Õð¶¯ÁéÃô¶È1-7' £¬ 'µÍµçÆ½¼¤»î' 8 Îª¸ßµçÆ½¼¤»î ,'¸ßµçÆ½¼¤»î' 9 ÎªµÍµçÆ½¼¤»î¡£Ê¹ÓÃµ¥ÏîÇÐ»»À´ÏÔÊ¾
+               7ï¼Œæ¿€æ´»æ–¹å¼     'å¼€æœºå³åŠ çƒ­' ä¸ºå¼€æœºå³åŠ çƒ­  'éœ‡åŠ¨çµæ•åº¦1-7' ï¼Œ 'ä½Žç”µå¹³æ¿€æ´»' 8 ä¸ºé«˜ç”µå¹³æ¿€æ´» ,'é«˜ç”µå¹³æ¿€æ´»' 9 ä¸ºä½Žç”µå¹³æ¿€æ´»ã€‚ä½¿ç”¨å•é¡¹åˆ‡æ¢æ¥æ˜¾ç¤º
 			   
-			   'Keep heating ' Îª¿ª»ú¼´¼ÓÈÈ  'Sen 1-7'  ÎªÕð¶¯ÁéÃô¶Èµ÷½Ú ¡®High Level start¡¯8Îª¸ßµçÆ½¼¤»î £¬ ¡®Low Level start¡¯9ÎªµÍµçÆ½¼¤»î
+			   'Keep heating ' ä¸ºå¼€æœºå³åŠ çƒ­  'Sen 1-7'  ä¸ºéœ‡åŠ¨çµæ•åº¦è°ƒèŠ‚ â€˜High Level startâ€™8ä¸ºé«˜ç”µå¹³æ¿€æ´» ï¼Œ â€˜Low Level startâ€™9ä¸ºä½Žç”µå¹³æ¿€æ´»
 Working mode
 0 , means keep heating, no standby, the soldering iron will keep heating.
 Sen 1 to 7:  vibration switch sensor sensitivity setting. The bigger the number, the less sensitivity. When the vibration exceed the chosen sensitivity level, the 
@@ -126,40 +126,40 @@ soldering iron will start heating.
 8 is High Level Activate, suitable for normally closed switch
 9 is Low Level Activate, suitable for normally open switch 
  
-               8£¬»Ö¸´³ö³§Éè¶¨  ³¤°´²ÅÄÜ½øÈë£¬Ñ¡Ôñ Y/N£¬ µ¥»÷È·¶¨ºóBBË«ÏìÍË³ö¡£
+               8ï¼Œæ¢å¤å‡ºåŽ‚è®¾å®š  é•¿æŒ‰æ‰èƒ½è¿›å…¥ï¼Œé€‰æ‹© Y/Nï¼Œ å•å‡»ç¡®å®šåŽBBåŒå“é€€å‡ºã€‚
 Reset factory default.
 Long press the rotary encoder to enter. Select Y/N then single press to proceed. 
 When the settings been reset back to factory default, the buzzer will beep twice. 
 
-9£¬×¢²áÐÅÏ¢  ÉÏÅÅÏÔÊ¾SN£¬ ÏÂÅÅÊäÈë×¢²áÂë
+9ï¼Œæ³¨å†Œä¿¡æ¯  ä¸ŠæŽ’æ˜¾ç¤ºSNï¼Œ ä¸‹æŽ’è¾“å…¥æ³¨å†Œç 
 Registration information
 The up row is serial number. 
 The second row is registration key.
 
-8£¬°æ±¾ÐÅÏ¢
+8ï¼Œç‰ˆæœ¬ä¿¡æ¯
 Version information.
 
-10£¬·µ»Ø
+10ï¼Œè¿”å›ž
 Exit
 
-//===========·çÇ¹²¿·Ö=============
+//===========é£Žæžªéƒ¨åˆ†=============
 
-2,·çÇ¹Éè¶¨
+2,é£Žæžªè®¾å®š
 Heat Gun Settings
-    1£¬ÀäÈ´ÖÕÖ¹ÎÂ¶ÈÉè¶¨  £¨·¶Î§>=100 ¶È£¬<= ¶þ·ÖÖ®Ò»Éè¶¨ÎÂ¶È£¬Ä¬ÈÏ100¶È£©µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö 
+    1ï¼Œå†·å´ç»ˆæ­¢æ¸©åº¦è®¾å®š  ï¼ˆèŒƒå›´>=100 åº¦ï¼Œ<= äºŒåˆ†ä¹‹ä¸€è®¾å®šæ¸©åº¦ï¼Œé»˜è®¤100åº¦ï¼‰å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º 
 	1, Cool down fan stop temperature setting (range >= 100 celsius, <= 50% of hot air gun working temperature), single press to modify, rotate the encoder to change value, single click again to save.
 	
-              2£¬·çÇ¹´¥·¢Ä£Ê½Éè¶¨  ¡®µÍµçÆ½¡¯£¬µÍµçÆ½¼¤»î£¬ '¸ßµçÆ½ '£¬¸ßµçÆ½¼¤»î  Ê¹ÓÃµ¥ÏîÇÐ»»À´ÏÔÊ¾
+              2ï¼Œé£Žæžªè§¦å‘æ¨¡å¼è®¾å®š  â€˜ä½Žç”µå¹³â€™ï¼Œä½Žç”µå¹³æ¿€æ´»ï¼Œ 'é«˜ç”µå¹³ 'ï¼Œé«˜ç”µå¹³æ¿€æ´»  ä½¿ç”¨å•é¡¹åˆ‡æ¢æ¥æ˜¾ç¤º
 			  2, Heat gun activation mode  
 					Low Level Activate, suitable for normally open switch 
 					High Level Activate, suitable for normally closed switch
 			  
-              3£¬PIDÎ¢µ÷   ³¤°´²ÅÄÜ½øÈë£¬ P £¬I £¬D £¬»Ö¸´Ä¬ÈÏ£¬Y/N 5¸ö²Ù×÷Ïî,µ¥»÷Ñ¡Ôñ£¬Ðý×ªÉè¶¨£¬ÔÙ´Îµ¥»÷ÍË³öÑ¡ÔñÏî¡£
+              3ï¼ŒPIDå¾®è°ƒ   é•¿æŒ‰æ‰èƒ½è¿›å…¥ï¼Œ P ï¼ŒI ï¼ŒD ï¼Œæ¢å¤é»˜è®¤ï¼ŒY/N 5ä¸ªæ“ä½œé¡¹,å•å‡»é€‰æ‹©ï¼Œæ—‹è½¬è®¾å®šï¼Œå†æ¬¡å•å‡»é€€å‡ºé€‰æ‹©é¡¹ã€‚
 			  3, PID Adjustment
 			  Long press the rotary encoder to enter the PID setting menu, there are five menu items here, which are P,I,D, reset to default, Y/N.
 Single press on a menu item to enter adjust mode, turn the rotary encoder to adjust, press again to save.
 			  
-              4£¬·çÇ¹ÎÂ¶ÈÐ£×¼     µ¥»÷½øÈë£¬Ðý×ª±àÂëÆ÷Ñ¡Ôñ¶ÔÓ¦µÄ²Ù×÷Ïî£¬µ¥»÷Ñ¡È¡²Ù×÷Ïî£¬µÚÒ»ÅÅÉè¶¨Ð£×¼µãÎÂ¶È¡£³¤°´¿ªÆôÀÓÌúÉýÎÂ£¨·äÃùÆ÷BBÁ½Éù£©£¬ÎÂ¶È´ïµ½Éè¶¨Öµºó£¬³¤¼ä¸ôBÏì£¬ÌáÊ¾ÓÃ»§£¬¿ÉÒÔ²âÎÂ£»ÔÚµÚ¶þÅÅÊäÈë²âµ½µÄÊµ¼ÊÎÂ¶È£¨Ä¬ÈÏ³õÊ¼Ê¼¸úËæÉè¶¨Öµ £©¡£ÆÁµÚÈýÅÅ ÏÔÊ¾SAVE£º Y/N£¬Ñ¡ÔñÊÇ·ñ±£´æÍË³öµ¥»÷Ñ¡Ôñ ·äÃùÆ÷Á½Á¬ÏìÌáÊ¾ ¡£
+              4ï¼Œé£Žæžªæ¸©åº¦æ ¡å‡†     å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ç¼–ç å™¨é€‰æ‹©å¯¹åº”çš„æ“ä½œé¡¹ï¼Œå•å‡»é€‰å–æ“ä½œé¡¹ï¼Œç¬¬ä¸€æŽ’è®¾å®šæ ¡å‡†ç‚¹æ¸©åº¦ã€‚é•¿æŒ‰å¼€å¯çƒ™é“å‡æ¸©ï¼ˆèœ‚é¸£å™¨BBä¸¤å£°ï¼‰ï¼Œæ¸©åº¦è¾¾åˆ°è®¾å®šå€¼åŽï¼Œé•¿é—´éš”Bå“ï¼Œæç¤ºç”¨æˆ·ï¼Œå¯ä»¥æµ‹æ¸©ï¼›åœ¨ç¬¬äºŒæŽ’è¾“å…¥æµ‹åˆ°çš„å®žé™…æ¸©åº¦ï¼ˆé»˜è®¤åˆå§‹å§‹è·Ÿéšè®¾å®šå€¼ ï¼‰ã€‚å±ç¬¬ä¸‰æŽ’ æ˜¾ç¤ºSAVEï¼š Y/Nï¼Œé€‰æ‹©æ˜¯å¦ä¿å­˜é€€å‡ºå•å‡»é€‰æ‹© èœ‚é¸£å™¨ä¸¤è¿žå“æç¤º ã€‚
 			  Heat gun temperature calibration
 
 			 Single click to enter calibration menu, turn the rotary encoder to highlight the menu item, single press to modify the highlighted item. 
@@ -175,30 +175,30 @@ Single press on a menu item to enter adjust mode, turn the rotary encoder to adj
 			   the buzzer will beep twice to indicate the change has been saved.
 			   
 			  
-              6£¬·µ»ØÉÏÒ»¼¶
+              6ï¼Œè¿”å›žä¸Šä¸€çº§
 			  Exit 
 
-3£¬ÒôÁ¿µ÷½Ú     0-9
+3ï¼ŒéŸ³é‡è°ƒèŠ‚     0-9
 Buzzer volume setting, value is from 0 to 9
 
-4£¬×´Ì¬µÆ       µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö 
+4ï¼ŒçŠ¶æ€ç¯       å•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º 
 Status LED  single click to modify, turn the rotary encoder to adjust, press again to exit.
 
-5£¬ÆÁÏÔÉè¶¨     ÊÇ·ñ¿ªÆôË«ÏîÏÔÊ¾ £¬µ¥»÷½øÈë£¬Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö  
+5ï¼Œå±æ˜¾è®¾å®š     æ˜¯å¦å¼€å¯åŒé¡¹æ˜¾ç¤º ï¼Œå•å‡»è¿›å…¥ï¼Œæ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º  
 Split screen display
 Enable or disable split screen display.  Single click to modify, turn the rotary encoder to adjust, press again to exit.
 
-6£¬ÐòÁÐºÅ       ÒÑ¾­¼¤»îÏÔÊ¾ÐòÁÐºÅ,¸ÐÐ»Ê¹ÓÃ£¡£»Î´¼¤»îÏÔÊ¾£¬ÊäÈë¼¤»îÂë£¬µã½ø½øÈëºó£¬ÉÏÅÅÏÔÊ¾ÐòÁÐºÅ£¬ÏÂÅÅÏÔÊ¾ÊäÈë¿ò
+6ï¼Œåºåˆ—å·       å·²ç»æ¿€æ´»æ˜¾ç¤ºåºåˆ—å·,æ„Ÿè°¢ä½¿ç”¨ï¼ï¼›æœªæ¿€æ´»æ˜¾ç¤ºï¼Œè¾“å…¥æ¿€æ´»ç ï¼Œç‚¹è¿›è¿›å…¥åŽï¼Œä¸ŠæŽ’æ˜¾ç¤ºåºåˆ—å·ï¼Œä¸‹æŽ’æ˜¾ç¤ºè¾“å…¥æ¡†
 Registration information
 The up row is serial number. Single click to input activation number if hasn't registered yet.
 The second row is registration key.
 
-7£¬»Ö¸´³ö³§     ³¤°´²ÅÄÜ½øÈë£¬Ñ¡ÔñÊÇ/·ñ Ðý×ªÐÞ¸Ä£¬ÔÙ´Îµ¥»÷ÍË³ö  £¨ÕâÀïµÄ»Ö¸´³ö³§ÊÇ½«ËùÓÐ²ÎÊýÖÃÎ»¡£
+7ï¼Œæ¢å¤å‡ºåŽ‚     é•¿æŒ‰æ‰èƒ½è¿›å…¥ï¼Œé€‰æ‹©æ˜¯/å¦ æ—‹è½¬ä¿®æ”¹ï¼Œå†æ¬¡å•å‡»é€€å‡º  ï¼ˆè¿™é‡Œçš„æ¢å¤å‡ºåŽ‚æ˜¯å°†æ‰€æœ‰å‚æ•°ç½®ä½ã€‚
 Reset factory default.
 Long press the rotary encoder to enter. Select Y/N then single press to proceed. 
 When the settings been reset back to factory default, the buzzer will beep twice. 
 
-8£¬ÍË³ö         µ¥»÷ÍË³ö£¬BBÁ½Éù¡£
+8ï¼Œé€€å‡º         å•å‡»é€€å‡ºï¼ŒBBä¸¤å£°ã€‚
 Exit. 
 
  
