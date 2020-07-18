@@ -31,12 +31,14 @@ soldering iron will start heating.
 9 is Low Level Activate, suitable for normally open switch 
 
 3，音量调节     0-9
-Speaker volume
+Buzzer volume
+
 4，状态灯                  （选择开或关）
-Status LED indicator, select On or off
+
+Status LED indicator, enable or disable
 
 5，屏显设定               （烙铁风枪同屏选择打开或关闭） 
-Display layout settings, display soldering iron and hot air gun in one screen, on or off
+Split screen setting, display soldering iron and hot air gun in one screen, enable or disable 
 
 6，序列号      Serial number
            （已经激活显示序列号,感谢使用！；未激活显示，输入激活码，点进进入后，上排显示序列号，下排显示输入框） 
@@ -79,13 +81,13 @@ Long press the rotary encoder for more than 2 seconds on either soldering or hot
 
 
 1，烙铁设定    1，  休眠温度     单击进入，旋转修改，再次单击退出 
-			   1, Standby temperature  press to modify, turn the rotary encoder to adjust, press again to exit.
+			   1, Standby temperature  single press to modify, turn the rotary encoder to adjust, press again to exit.
 			   
                2，休眠时间      单击进入，旋转修改，再次单击退出
-			   2, Standby time  press to modify, turn the rotary encoder to adjust, press again to exit.
+			   2, Standby time  single press to modify, turn the rotary encoder to adjust, press again to exit.
 
                3，停机时间     单击进入，旋转修改，再次单击退出 
-			   3, Sleep time  press to modify, turn the rotary encoder to adjust, press again to exit.
+			   3, Sleep time  single press to modify, turn the rotary encoder to adjust, press again to exit.
 
 			   4，PID微调     长按才能进入， P ，I ，D ，恢复默认，Y/N     5个操作项,单击选择，旋转设定，再次单击退出选择项。
 			   
@@ -94,9 +96,20 @@ Single press on a menu item to enter adjust mode, turn the rotary encoder to adj
 
                5，温度校准     单击进入，旋转编码器选择对应的操作项，单击选取操作项，第一排设定校准点温度。长按开启烙铁升温（蜂鸣器BB两声），温度达到设定值后，                                 长间隔B响，提示用户，可以测温；在第二排输入测到的实际温度（默认初始始跟随设定值 ）。屏第三排 显示SAVE： Y/N，选择是否保存退出单击选择 蜂鸣器两连响提示 。
 			   
-			   5, Temperature calibration  press to enter calibration menu, turn the rotary encoder to highlight the menu item, single press to enter modify 
+			   5, Soldering Iron Temperature calibration  
 			   
-			   todo 
+			   Single press to enter calibration menu, turn the rotary encoder to highlight the menu item, single press to modify the highlighted item. 
+			   
+			   The first row is set the calibration point temperature.
+			   Long press to start the soldering iron heating (Beep twice),
+			   When the temperature has reached the set soldering iron working temperature,
+			   The buzzer will beep with long gap, this is indicating the end user it's ready to test the actual temperature.
+			   
+			   On the second row, input the actual temperature test result. 
+			   
+			   On the thrid row, it shows 'Save', choose Y/N to save or discard the change. If choose save and yes, 
+			   the buzzer will beep twice to indicate the change has been saved.
+			    
 			   
 			   6,功率设定     90-100 110 120 130 140 150 W 。使用单项切换来显示
 			   Max output power selection: Press to modify, options avaialble are 90 100 110 120 140 150W. Press again to save and exit.    
@@ -131,18 +144,62 @@ Exit
 
 //===========风枪部分=============
 
-2,风枪设定    1，冷却终止温度设定  （范围>=100 度，<= 二分之一设定温度，默认100度）单击进入，旋转修改，再次单击退出 
+2,风枪设定
+Heat Gun Settings
+    1，冷却终止温度设定  （范围>=100 度，<= 二分之一设定温度，默认100度）单击进入，旋转修改，再次单击退出 
+	1, Cool down fan stop temperature setting (range >= 100 celsius, <= 50% of hot air gun working temperature), single press to modify, rotate the encoder to change value, single click again to save.
+	
               2，风枪触发模式设定  ‘低电平’，低电平激活， '高电平 '，高电平激活  使用单项切换来显示
+			  2, Heat gun activation mode  
+					Low Level Activate, suitable for normally open switch 
+					High Level Activate, suitable for normally closed switch
+			  
               3，PID微调   长按才能进入， P ，I ，D ，恢复默认，Y/N 5个操作项,单击选择，旋转设定，再次单击退出选择项。
+			  3, PID Adjustment
+			  Long press the rotary encoder to enter the PID setting menu, there are five menu items here, which are P,I,D, reset to default, Y/N.
+Single press on a menu item to enter adjust mode, turn the rotary encoder to adjust, press again to save.
+			  
               4，风枪温度校准     单击进入，旋转编码器选择对应的操作项，单击选取操作项，第一排设定校准点温度。长按开启烙铁升温（蜂鸣器BB两声），温度达到设定值后，长间隔B响，提示用户，可以测温；在第二排输入测到的实际温度（默认初始始跟随设定值 ）。屏第三排 显示SAVE： Y/N，选择是否保存退出单击选择 蜂鸣器两连响提示 。
+			  Heat gun temperature calibration
+
+			 Single click to enter calibration menu, turn the rotary encoder to highlight the menu item, single press to modify the highlighted item. 
+			   
+			   The first row is set the calibration point temperature.
+			   Long press to start the soldering iron heating (Beep twice),
+			   When the temperature has reached the set soldering iron working temperature,
+			   The buzzer will beep with long gap, this is indicating the end user it's ready to test the actual temperature.
+			   
+			   On the second row, input the actual temperature test result. 
+			   
+			   On the thrid row, it shows 'Save', choose Y/N to save or discard the change. If choose save and yes, 
+			   the buzzer will beep twice to indicate the change has been saved.
+			   
+			  
               6，返回上一级
+			  Exit 
 
 3，音量调节     0-9
+Buzzer volume setting, value is from 0 to 9
+
 4，状态灯       单击进入，旋转修改，再次单击退出 
+Status LED  single click to modify, turn the rotary encoder to adjust, press again to exit.
+
 5，屏显设定     是否开启双项显示 ，单击进入，旋转修改，再次单击退出  
+Split screen display
+Enable or disable split screen display.  Single click to modify, turn the rotary encoder to adjust, press again to exit.
+
 6，序列号       已经激活显示序列号,感谢使用！；未激活显示，输入激活码，点进进入后，上排显示序列号，下排显示输入框
+Registration information
+The up row is serial number. Single click to input activation number if hasn't registered yet.
+The second row is registration key.
+
 7，恢复出厂     长按才能进入，选择是/否 旋转修改，再次单击退出  （这里的恢复出厂是将所有参数置位。
+Reset factory default.
+Long press the rotary encoder to enter. Select Y/N then single press to proceed. 
+When the settings been reset back to factory default, the buzzer will beep twice. 
+
 8，退出         单击退出，BB两声。
+Exit. 
 
  
                
