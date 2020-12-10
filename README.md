@@ -11,7 +11,7 @@ P1.0 </br>早期插针版本 </br>
 V5版解决了V3/V4版本硬件中继电器因为元件质量参差不齐导致的火线零线隔离不严，拉弧导致跳空开，烧管子的问题。
 V5版改用单独的两个继电器，彻底解决隔离不严问题。
 
-<img src='https://raw.githubusercontent.com/WenyuCreative/wy-815d-v5/master/hardware/20200717.png' height="400"></img>
+<img src='https://raw.githubusercontent.com/WenyuCreative/wy-815p/master/hardware/H1.0/20200717.png' height="400"></img>
 
 淘宝链接(Taobao Link) https://shop112452226.taobao.com/
 
